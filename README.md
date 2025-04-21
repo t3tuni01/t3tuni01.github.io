@@ -21,7 +21,6 @@
 > [!TIP]
 > Käy vaikka ajankuluksi kattoon kotikaupunkini säätä [Tornion sää](https://www.foreca.fi/Finland/Tornio).
 
-![Sää](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Weather-sun.svg/2048px-Weather-sun.svg.png)
 
 ```js
 console.log("Hello Vertaisarvioija!");
