@@ -19,7 +19,6 @@
 - [ ] Tää myös
 
 - ```js
-// Esimerkki koodista
 console.log("<ins> Hello Vertaisarvioija! </ins>");
 
 > [!TIP]
