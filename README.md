@@ -18,8 +18,9 @@
     
 - [ ] Tää myös
 
-- ```js
-console.log("<ins> Hello Vertaisarvioija! </ins>");
-
 > [!TIP]
 > Käy vaikka ajankuluksi kattoon kotikaupunkini säätä [Tornion sää](https://www.foreca.fi/Finland/Tornio).
+> ![Sääkuva](https://upload.wikimedia.org/wikipedia/commons/0/0e/Weather_icon_-_sunny.svg)
+
+```js
+console.log("Hello Vertaisarvioija!");
